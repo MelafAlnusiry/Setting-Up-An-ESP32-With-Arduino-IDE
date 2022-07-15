@@ -9,7 +9,7 @@
 
 **Step 4:** to check that everything is working go to Examples in the File list and select ESP32 —> chipID—> GetChipID <br />
 
-**Step 5:** connect the ESP32 for this you need a micro USB cable connect it to the board and plug in the other end of the USB cable to your computer ( You will see the power led is ON 💡) <br />
+**Step 5:** connect the ESP32, for this you need a micro USB cable connect it to the board and plug in the other end of the USB cable to your computer ( You will see the power led is ON 💡) <br />
 
 **Step 6:** select the right port then press Upload <br />
 
